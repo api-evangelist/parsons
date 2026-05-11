@@ -30,6 +30,32 @@ apis:
 common:
   - type: Website
     url: https://www.parsons.com
+  - type: Integrations
+    url: https://www.parsons.com/partners/
+integrations:
+  - name: Parsons
+  - name: Willow
+  - name: Aveva
+  - name: Kahua
+  - name: Autodesk
+  - name: Trimble Partner Network
+  - name: Autocene
+  - name: Bentley
+  - name: ESRI
+  - name: Microsoft
+  - name: Smartcone
+  - name: Trace
+  - name: Abaco
+  - name: Intel
+  - name: AWS
+  - name: NVIDIA
+  - name: NetApp
+  - name: Cubic
+  - name: Dell
+  - name: Sciens Innovations
+  - name: Procore
+  - name: sciens
+  - name: dell technologies
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
