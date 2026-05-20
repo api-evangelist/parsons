@@ -28,6 +28,8 @@ apis:
     description: >-
       The Parsons Corporation API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/parsons
   - type: Website
     url: https://www.parsons.com
   - type: Integrations
