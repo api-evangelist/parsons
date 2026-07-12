@@ -28,6 +28,10 @@ apis:
     description: >-
       The Parsons Corporation API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/parsons-domain-security.yml
+  - url: https://www.parsons.com/feed/
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/parsons
   - type: Website
