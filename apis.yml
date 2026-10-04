@@ -1,6 +1,6 @@
 aid: parsons
 url: https://raw.githubusercontent.com/api-evangelist/parsons/refs/heads/main/apis.yml
-name: Parsons Corporation
+name: Parsons
 type: Index
 deliveryModel:
   model: unknown
@@ -88,3 +88,4 @@ integrations:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Parsons Corporation
