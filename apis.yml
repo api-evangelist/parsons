@@ -51,6 +51,12 @@ apis:
     description: >-
       The Parsons Corporation API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/parsons-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/parsons-rate-limits.yml
+  - type: FinOps
+    url: finops/parsons-finops.yml
   - type: DomainSecurity
     url: security/parsons-domain-security.yml
   - url: https://www.parsons.com/feed/
